@@ -1,6 +1,6 @@
-# Gluttonous-Snake on MSPM0G3519 (English)
+# Gluttonous-Snake on MSPM0G3519
 
-中文说明：[/README.zh-CN.md](./README.zh-CN.md)
+[中文](./README.zh-CN.md)
 
 
 A classic Snake game implemented on the Texas Instruments **MSPM0G3519** microcontroller, featuring an OLED display, a 4×4 matrix keypad for local control, and **UART remote control** via VOFA+ for simultaneous operation, developed as a training project for university electronics competition.
