@@ -1,5 +1,7 @@
 # 基于 MSPM0G3519 的贪吃蛇
 
+[English](https://github.com/Zhiw-Zhang/Gluttonous-Snake/edit/main/README.md) | 中文
+
 基于德州仪器 **MSPM0G3519** 微控制器实现的经典贪吃蛇游戏，配备 OLED 显示屏、4×4 矩阵键盘本地控制，并通过 **UART** 与 VOFA+ 实现远程控制，支持双控制方式同时操作，为大学生电子设计竞赛培训项目。
 
 ---
